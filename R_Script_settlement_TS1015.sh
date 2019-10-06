@@ -1,3 +1,6 @@
+# These data and scripts are supplement to Say, T. E., & Degnan, S. M. (2019). 
+# Interdependent photo- and chemosensory systems regulate larval settlement in a marine sponge. bioRxiv, 519512. doi:10.1101/519512
+#
 #This script contains the code used to perform the statistical tests on the larval settlement data 
 
 ####################################################################################
